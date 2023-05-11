@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400000
+  expiration_time: 86400001
   secret: 77397A24432646294A404E635166546A576E5A7234753778214125442A472D4B
 
 gateway:
